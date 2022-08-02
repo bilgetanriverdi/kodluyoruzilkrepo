@@ -28,7 +28,3 @@ Pull requestler kabul edilir. Büyük değişikler için, lütfen önce neyi de�
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
-
-
-
-<img src="https://imgyukle.com/f/2022/08/02/VwPyHQ.jpg" alt="00" width="749" height="604" data-is360="0" data-load="full" class="cursor-zoom-in" style="width: 616.313px; height: 497px; display: block;">
